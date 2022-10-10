@@ -3,8 +3,8 @@ my_fav_team : str = 'real madrid'
 print(my_fav_team)
 
 # Define a variable “x“  has an integer value and a variable “y” has a float value.
-x : int 
-y : float
+x : int = 11
+y : float = 11.1
 
 # Assign One Value to Multiple Variables (choose random names & values).
 var1 = var2 = var3 = var4 = "have the same value"
