@@ -8,7 +8,10 @@ y : float
 
 # Assign One Value to Multiple Variables (choose random names & values).
 var1 = var2 = var3 = var4 = "have the same value"
-print(var1,var2,var3,var4)
+print(var1)
+print(var2)
+print(var3)
+print(var4)
 
 # Assign multiple Values to Multiple Variables (choose random names & values).
 my_fname , my_lname , my_age = 'saud', 'alotaibi', 20 
